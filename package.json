@@ -23,9 +23,15 @@
   "homepage": "https://github.com/Nglg16/nodejs_b1#readme",
   "dependencies": {
     "express": "^4.20.0",
-    "express-handlebars": "^8.0.1"
+    "express-handlebars": "^8.0.1",
+    "method-override": "^3.0.0",
+    "mongoose-delete": "^1.0.2",
+    "mongoose-sequence": "^6.0.1"
   },
   "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "mongoose": "^8.6.2",
+    "mongoose-slug-updater": "^3.3.0",
     "morgan": "^1.10.0",
     "node-sass": "^9.0.0",
     "nodemon": "^3.1.4",
